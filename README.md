@@ -14,5 +14,4 @@ Start:
 - Them type !commands and the bot will dm you the commands ( if you want to see the commands have dms on )
 - done , enjoy!
 
-- if your here might as well join my discord server: 
-- discord.gg/9G3m78jZSY
+- if your here might as well join my discord server:  discord.gg/9G3m78jZSY
