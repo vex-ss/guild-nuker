@@ -31,3 +31,5 @@ Non Harmful Commands:
 - $clear | Clears the latest message after putting the number after the command
 - $createvc | Creates a VC Channel named after what you put after the command
 - $stop | Stops the nuke or other command
+
+- if your here might as well join my discord server: discord.gg/9G3m78jZSY
