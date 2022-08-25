@@ -32,4 +32,4 @@ Non Harmful Commands:
 - $createvc | Creates a VC Channel named after what you put after the command
 - $stop | Stops the nuke or other command
 
-- if your here might as well join my discord server: discord.gg/9G3m78jZSY
+- if your here might as well join my discord server: https://discord.gg/9G3m78jZSY
